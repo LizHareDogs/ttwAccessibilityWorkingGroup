@@ -150,6 +150,7 @@ Collaboration of community members interested in enhancing the accessibility of 
 ## People
 
 * Anne Lee Steele and Liz Hare have been serving as co-leads.
+* Andrea Sánchez-Tapia provided defnitions, has worked on the accessibility policy, and participated in discussions about the social context of accessibility
 * Sophia Batchelor has written a chapter on inclusive events 
 * MetaDocencia collaboration
 
@@ -255,7 +256,10 @@ Ways you can help:
 
 # Contacts
 
+* [Email Anne Lee Steele](asteele@turing.ac.uk)
 * [Email Liz Hare](mailto:lizhare@gmail.com)
 * `#Accessibility` channel on The Turing Way Slack
 
+
+## *Please join us in developing an accessible community for all!*
 
