@@ -127,7 +127,8 @@ width="250px"
 -->
 
 
-## `r rmarkdown::metadata$author` 
+
+### `r rmarkdown::metadata$author` 
 
 [`r fa("github", a11y="sem")` @LizHareDogs](https://github.com/LizHareDogs)<br>
 [`r fa("twitter", a11y="sem")` @DogGeneticsLLC](https://twitter.com/DogGeneticsLLC)<br>
@@ -135,11 +136,12 @@ width="250px"
 [`r fa("envelope", a11y="sem")` lizhare@gmail.com](mailto:LizHare@gmail.com)
 
 
+### Anne Lee Steele
 
-.pull-left[
+[`r fa("github", a11y = "sem")` @aleesteele](https://github.com/alsteele)
+[`r fa("envelope", a11y="sem")` asteele@turing.ac.uk](mailto:https://github.com/alsteele)
 
 
-] <!--end of pull left -->
 
 ---
 
